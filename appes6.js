@@ -53,12 +53,20 @@ class UI {
 
 // Local Storage Calss
 class Sotre {
-  displayBooks() {
+static getBooks() {
 
   }
 
-  addBook() {
+static displayBooks() {
+
+  }
+
+static addBook() {
     
+  }
+
+static removeBook() {
+
   }
 }
 
