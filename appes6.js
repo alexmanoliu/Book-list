@@ -50,6 +50,18 @@ class UI {
     document.getElementById('isbn').value = '';
   }
 }
+
+// Local Storage Calss
+class Sotre {
+  displayBooks() {
+
+  }
+
+  addBook() {
+    
+  }
+}
+
 // Event Listener for add book
 document.getElementById('book-form').addEventListener('submit', function(e){
   // Get form values
